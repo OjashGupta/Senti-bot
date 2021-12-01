@@ -1,11 +1,16 @@
 import os
 import discord
 import random
+import environ
 import sentiment
 import messenger
 from alive import keep_alive
 
-my_secret = os.environ['Token']
+# reading .env file
+env = environ.Env()
+environ.Env.read_env()
+
+Token=env("token")
 
 client = discord.Client() 
 
@@ -43,4 +48,4 @@ async def on_message(message):
 
   
 keep_alive() 
-client.run(my_secret) 
+client.run(Token) 
