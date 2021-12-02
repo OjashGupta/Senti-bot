@@ -1,0 +1,77 @@
+{'happy' : ["I'm so happy to see you!",
+"Oh, how happy I am!",
+"That makes me happy.",
+"That’s great to hear!",
+"Ah I see you are doing well. Keep it up!",
+"You sound so pleased. That’s a great attitude to have.",
+"Having that kind of mindset helps. It’s wonderful to see you so energetic.",
+"I only wish you to stay as happy as you are now for a long time.",
+"Great opportunities await you. You will do well.",
+"If it makes you happy, that's good enough for me."],
+
+'sadness' : ["You don't sound happy.",
+"You don’t need to be so down. You have come a long way. You deserve to be happy.",
+"Every cloud has a silver lining. You should buckle up and attack!",
+"It's so sad reading about it.",
+"That's kind of sad.",
+"In what sad circumstances we meet again!",
+"Hugs my dear friend. You can do it!",
+"Believe in yourself. You deserve all the good things in the world.",
+"You were born to accomplish great things in life. Chin up!",
+"This too shall pass. Don’t give up yet."
+],
+
+'fear' : ["Don’t be afraid. Darr Ke Aage Jeet hai!",
+"Don’t be afraid to fail, be afraid to not try."
+"Most people are paralyzed by fear, overcome it and you can take charge of your life and the world.",
+"The future may be scary but you cannot run back to the past either. Prepare yourself and face it with all your might."
+"There cannot be a greater error than the fear so generally prevalent as to the overissue of assignats.",
+"Nelson Mandela once said that, The brave man is not he who does not feel afraid, but he who conquers that fear.",
+"Marie Curie once said that, 'Nothing in life is to be feared. It is only to be understood.' You can do it my friend.",
+"If you want to conquer fear, do not sit home and think about it. Go out and get busy.",
+"Thinking will not overcome fear but action will."
+"Where fear is, happiness is not. So be fearless, be happy!"
+],
+
+'surprise' : ["Why do you think so?",
+"Tell me more about it.",
+"Why does that surprise you?",
+"What do you think should have happened?",
+"Do you believe this?",
+"I am so clever; at times I surprise myself! You sound so surprised, what’s up?",
+"Can you elaborate about that surprising incident?"
+"What makes that so surprising?",
+"Isnt that shocking to hear? Fill me in about it.",
+"Sometimes, life comes with many surprises. I believe you just encountered one!",
+"It is always a pleasant surprise to see you surprised."
+],
+
+
+'anger' : ["Calm down. That should not have happened, but its already spilt milk.",
+"Tell me more about the incident, I am all ears.",
+"Dont keep it all bottled up.",
+"The anger is quite evident in your words.",
+"In times of great stress or adversity, its always best to keep busy, to plow your anger and your energy into something positive.",
+"You cannot see your reflection in boiling water, similarly you cannot see the truth in a state of anger. Calm down and lets think it over again.",
+"Getting angry doesnt solve anything. Get mad and then get over it.",
+"Anger begins with folly, and ends with repentance.",
+"Even though your anger may be perfectly justified, you are the one who suffers by carrying around that anger.",
+"Anger doesnt solve anything. It builds nothing but can destroy everything. So think patiently once again.",
+"Anger is your biggest enemy. Control it!",
+"Holding onto anger is like drinking poison and expecting the other person.",
+"If you hate a person, then you are defeated by them."
+],
+
+'love' : ["Oh that is lovely! You sure are on cloud nine.",
+"Glad to hear that!",
+"I believe you had a great time. Enjoy the company you get to the fullest.",
+"Love is something like the clouds that were in the sky before the sun came out.",
+"You sure are lucky! Have a great time.",
+"Oh I am sure I would love them too!",
+"You sound so energetic! Is love in the air?",
+"Oh! Your words are so sweet to hear! What have you been up to?",
+"Sometimes all you need is a hug from the right person and all your stress will melt away.",
+"Its always better when we are together."
+]}
+
+
